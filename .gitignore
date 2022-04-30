@@ -7,3 +7,5 @@
 /controller/.vscode/
 /controller/ArduinoOutput/
 /controller/state.ino
+/gyroAndPWMSample/.vscode/
+/gyroAndPWMSample/ArduinoOutput/
